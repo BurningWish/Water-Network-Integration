@@ -1,0 +1,3 @@
+# Water Network Integration Algorithm
+
+This repository contains the code to generate fine scale water distribution networks for the city of Newcastle upon Tyne. Due to data sensitivity, the original water main pipe network data (from Northumbria Water Group) is not provided here. Run the script `Step 0 - WDA Calculation.py`, `Step 1 - NWG Flow Infer.py`, `Step 2 - Preprocessing Data.py`, and `Step 3 - Main Script.py` sequentially to generate the result.
